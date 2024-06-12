@@ -1,0 +1,39 @@
+https://apkadmin.com/55m20a5jvxjx/Codex_2.623.apk.html
+
+https://d.apkpure.com/b/APK/com.kiwibrowser.browser?version=latest
+
+https://d.apkpure.com/b/APK/com.easytouch.assistivetouch?version=latest
+
+
+https://d.apkpure.com/b/APK/bin.mt.plus?version=latest
+
+
+https://d.apkpure.com/b/APK/com.rise.automatic.autoclicker.clicker?version=latest
+
+_G.Key = "Key"
+getgenv().ImportMacro = "https://raw.githubusercontent.com/lucyizz/lucyizz/main/haha.json"
+getgenv().Config = {
+    ["SelectChapter"] = "Infinite",
+    ["AutoSave"] = true,
+    ["WH_MatchComplete"] = true,
+    ["AutoSkip"] = true,
+    ["AutoClaimQuest"] = true,
+    ["TPLobbyIfPlayer"] = true,
+    ["IgnoreMacroTiming"] = true,
+    ["SelectMacro"] = "Macro65Action",
+    ["PlayMacro"] = true,
+    ["BoostFPS"] = true,
+    ["AutoLeave"] = true,
+    ["JoinerCooldown"] = 0,
+    ["AutoReturnLobby"] = true,
+    ["AutoJoinWorld"] = true,
+    ["SelectWorld"] = "Windmill Village",
+    ["LeaveSellWave"] = 31,
+    ["AutoSell"] = false,
+    ["AutoRejoin"] = true,
+    ["WebhookURL"] = "https://discord.com/api/webhooks/1126837489265561660/xDhFUsvhEsDgxYnkK36eKnV1pY1vOKgajdvBOuLFSGJCS8iITWPGtKnX3nf1Tk9FySAY",
+    ["AutoReplay"] = false,
+    ["JoinHighest"] = false,
+    ["HardMode"] = false,
+}
+loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()
